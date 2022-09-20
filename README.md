@@ -23,7 +23,7 @@ CONTENTS OF THIS FILE
 
 # Project Summary:
 
-This is a personal website project, which can be found at: https://github.com/username/personal-website. This website is a static website built with HTML, CSS, and JavaScript. It includes information about me and a list of my favorite books. 
+This is a personal website project, which can be found at: https://github.com/alikhan447.github.io. This website is a static website built with HTML, CSS, and JavaScript. It includes information about me and a list of my favorite books. 
 
 
 
